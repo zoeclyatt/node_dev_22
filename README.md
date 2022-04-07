@@ -1,1 +1,1 @@
-# node_dev_22
+# Complete NodeJS Developer in 2022 coursework
